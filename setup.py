@@ -9,7 +9,7 @@
 from setuptools import setup, find_packages
 from codecs import open
 
-REPO_URL = "https://github.com/ProtoThis/python-synology"
+REPO_URL = "https://github.com/therealj4nd3rs0n/python-synology"
 VERSION = "0.8.1"
 
 with open("requirements.txt") as f:
@@ -43,5 +43,5 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    keywords=["synology-dsm", "synology"],
+    keywords=["synology-dsm-j4nd3rs0n", "synology"],
 )
